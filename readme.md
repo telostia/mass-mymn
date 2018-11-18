@@ -10,15 +10,14 @@ bash ./install.sh -p mymn -n 6 -c 10
 ```
 bash ./mymn-bootstrap.sh
 ```
-When asked for number of masternodes, enter 10 for e.g . It will download and extra bootstrap to each data folder. If you made mistakes here you have to wipe all mn and 
-start over again. (refer to Wipe all masternodes below if need be)
+When asked for number of masternodes, enter 10 for e.g . It will download and extract bootstrap to each data folder. If you made mistakes here, you have to wipe all mn and start over again. (refer to Wipe all masternodes data below if need be)
 
 **Handy masternode genkey script:**
 
 ```
 bash ./mymn-genkey.sh
 ```
-When asked for number of masternodes, enter 10 for e.g and followed by Each genkey + Enter key  one after another til finnish all 10.
+When asked for number of masternodes, enter 10 for e.g and followed by each genkey and press Enter key one after another til finnish all 10.
 
 **Final command (symbolic link lost somehow during the bootstrapping and genkey):**
 ```
