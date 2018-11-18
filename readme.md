@@ -27,7 +27,7 @@ bash ./install.sh -p mymn -n 6 -c 10
 
 **Run nodes:**
 ```
-bash activate_masternodes_mymn
+activate_masternodes_mymn
 ```
 this command will load all masternodes set. 
 
